@@ -1,1 +1,1 @@
-#gcc -o packet packet.c -lpcap
+# gcc -o packet packet.c -lpcap
